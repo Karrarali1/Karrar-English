@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>إعلان محاضرة</title>
+  <style>
+    body {
+      font-family: 'Tahoma', sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+    .container {
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      padding: 30px;
+      max-width: 600px;
+      margin: auto;
+    }
+    h1 {
+      color: #004080;
+    }
+    .details {
+      font-size: 18px;
+      margin-top: 20px;
+      line-height: 1.8;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>إعلان محاضرة</h1>
+    <div class="details">
+      <p><strong>المادة:</strong> اللغة الإنجليزية - الصف الثالث متوسط</p>
+      <p><strong>اليوم:</strong> الإثنين</p>
+      <p><strong>التاريخ:</strong> 17 / 6 / 2025</p>
+      <p><strong>الوقت:</strong> الساعة 5:30 مساءً</p>
+      <p><strong>مدة المحاضرة:</strong> ساعتان</p>
+      <p><strong>المكان:</strong> المعمل - شارع عشرين</p>
+      <p><strong>ملخصات مجانية + اختبار يومي + نشر مستوى الطالب</strong></p>
+    </div>
+  </div>
+</body>
+</html>
